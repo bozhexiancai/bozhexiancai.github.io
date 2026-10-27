@@ -8,7 +8,7 @@ const portfolio = {
   status: "持续充电中",
   location: "中国 · 广东",
   email: "2922485573@qq.com",
-  github: "https://github.com/cjdh3691/wanjiajun",
+  github: "https://github.com/bozhexiancai/bozhexiancai.github.io",
   csdn: "https://blog.csdn.net/2501_94694794?type=blog",
   gitee: "https://gitee.com/wan-JJ/wanjiajun_test.git",
   resumeUrl: "",
